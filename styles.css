@@ -9,6 +9,11 @@ p {
 .hidden-text {
   display: none;
 }
+.visible-text {
+    display: block; /* Use 'inline', 'inline-block', etc., depending on desired layout */
+    margin-top: 10px;
+    color: green;
+}
 /*--#richard-roll:hover {
   color:lightblue;
   font-size:35px;
