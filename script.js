@@ -12,9 +12,9 @@ toggleButton.addEventListener('click', function() {
 
     // Optional: change the button's text based on visibility
     if (messageElement.classList.contains('hidden-text')) {
-        toggleButton.textContent = 'Click Me to Reveal Text';
+        toggleButton.textContent = 'Funny Moment';
     } else {
-        toggleButton.textContent = 'Hide Text';
+        toggleButton.textContent = 'Click if you dont accept the hard truth.';
     }
 });
 
