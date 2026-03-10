@@ -6,6 +6,9 @@ p {
   font-size:20px;
   text-decoration:underline;
 }
+.hidden-text {
+  display: none;
+}
 /*--#richard-roll:hover {
   color:lightblue;
   font-size:35px;
